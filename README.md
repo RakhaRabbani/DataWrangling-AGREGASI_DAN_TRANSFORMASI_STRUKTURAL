@@ -90,7 +90,9 @@ Memperkenalkan konsep **grouping** dan **summarization** dengan `pandas`.
   ```python
   hasil = grup['Penjualan'].sum()
   ```
-![Grouping dan Sumarisasi](Hasil/grouping_dan_sumarisasi.png)
+<p align="center">
+   ![Grouping dan Sumarisasi](Hasil/grouping_dan_sumarisasi.png)
+</p>
 
 **Konsep yang dipelajari:**
 
