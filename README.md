@@ -1,5 +1,6 @@
-# Analisis & Visualisasi Data Penjualan dengan Python
-
+<div align="center">
+  # Analisis & Visualisasi Data Penjualan dengan Python
+</div>
 <div align="center">
 
   <h3><i>Transform Data, Unlock Insights, Drive Innovation</i></h3>
