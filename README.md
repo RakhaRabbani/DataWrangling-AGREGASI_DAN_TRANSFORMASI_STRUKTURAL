@@ -1,5 +1,23 @@
 # Analisis & Visualisasi Data Penjualan dengan Python
 
+<div align="center">
+
+  <h3><i>Transform Data, Unlock Insights, Drive Innovation</i></h3>
+
+  <img src="https://img.shields.io/github/last-commit/RakhaRabbani/DataWrangling-AGREGASI_DAN_TRANSFORMASI_STRUKTURAL?style=flat-square&color=blue" alt="Last Commit">
+  <img src="https://img.shields.io/github/languages/top/RakhaRabbani/DataWrangling-AGREGASI_DAN_TRANSFORMASI_STRUKTURAL?style=flat-square&color=blue" alt="Top Language">
+  <img src="https://img.shields.io/github/languages/count/RakhaRabbani/DataWrangling-AGREGASI_DAN_TRANSFORMASI_STRUKTURAL?style=flat-square&color=blue" alt="Language Count">
+
+  <br><br>
+
+  <h3><i>Built with the tools and technologies:</i></h3>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
+</div>
+
+---
+
 Repository ini berisi kumpulan skrip Python sederhana untuk belajar **analisis data penjualan** menggunakan:
 
 - `pandas` untuk manipulasi dan transformasi data  
